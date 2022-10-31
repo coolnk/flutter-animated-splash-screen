@@ -1,2 +1,2 @@
-# flutter-animated-splash-screen
+# flutter_animated_splash_screen
 learning flutter
